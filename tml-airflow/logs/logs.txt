@@ -10819,3 +10819,4 @@ hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 [INFO 2024-10-10_17:08:35] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-myfirsttssproject2-4a57.py
 [INFO 2024-10-10_17:08:52] Deleting topic iot-preprocess in tml_system_step_2_kafka_createtopic_dag-myfirsttssproject2-4a57.py
+[INFO 2024-10-10_17:09:10] Deleting topic iot-preprocess2 in tml_system_step_2_kafka_createtopic_dag-myfirsttssproject2-4a57.py
