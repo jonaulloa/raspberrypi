@@ -10841,3 +10841,13 @@ branch.main.remote=origin
 branch.main.merge=refs/heads/main
 [INFO 2024-10-15_16:13:28] TML Solution Studio: Github Remote Status: origin	https://github.com/jonaulloa/raspberrypi (fetch)
 origin	https://<personal access token hidden>@github.com/jonaulloa/raspberrypi.git (push)
+[INFO 2024-10-15_16:24:50] TML Solution Studio: TML Project Creation: Creating new TML project: /raspberrypi/tml-airflow/dags/tml-solutions/myfirsttssproject-4a57
+[INFO 2024-10-15_16:24:50] TML Solution Studio: git pull --rebase --autostash origin main Status: From https://github.com/jonaulloa/raspberrypi
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[INFO 2024-10-15_16:25:27] TML Solution Studio: Starting Git commit process for project: myfirsttssproject-4a57
+[INFO 2024-10-15_16:25:27] TML Solution Studio: git commit -a Status for project myfirsttssproject-4a57: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-10-15_16:25:27] TML Solution Studio: git push origin main Status: Everything up-to-date
+[INFO 2024-10-15_16:25:27] TML Solution Studio: git add . Status: 
+[INFO 2024-10-15_16:25:27] TML Solution Studio: git commit -a Status for project myfirsttssproject-4a57: fatal: paths 'project ...' with -a does not make sense
+[INFO 2024-10-15_16:25:28] TML Solution Studio: git push Status for project myfirsttssproject-4a57: Everything up-to-date
