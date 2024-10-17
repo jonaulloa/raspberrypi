@@ -10908,3 +10908,4 @@ Already up to date.
 [INFO 2024-10-17_16:28:18] TML Solution Studio: git add . Status: 
 [INFO 2024-10-17_16:28:18] TML Solution Studio: git commit -a Status for project proj1tss10172024-4a57: fatal: paths 'project ...' with -a does not make sense
 [INFO 2024-10-17_16:28:18] TML Solution Studio: git push Status for project proj1tss10172024-4a57: Everything up-to-date
+[INFO 2024-10-17_16:31:20] Deleting topic iot-raw-data in tml_system_step_2_kafka_createtopic_dag-jonatssproj-4a57.py
